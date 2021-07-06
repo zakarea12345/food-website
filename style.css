@@ -132,3 +132,13 @@ h3{
 .fifth span{
     color: red;
 }
+.sixth{
+    background-color: black;
+}
+.input{
+    padding: 80px;
+    border-radius: 10px;
+}
+#description{
+    padding: 80px;
+}
